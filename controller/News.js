@@ -229,8 +229,7 @@ exports.getAllNews = asyncHandler(async (req, res, next) => {
 
 exports.getSlugNews = asyncHandler(async (req, res, next) => {
   const news = await News.findOne({ slug: req.params.slug })
-    .populate("categories")
-    .populate("createUser");
+  .populate("createUser");
 
   if (!news) {
     throw new MyError("Тухайн мэдээ олдсонгүй. ", 404);
