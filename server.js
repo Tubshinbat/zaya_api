@@ -54,8 +54,8 @@ connectDB();
 var whitelist = [
   "http://localhost:3000",
   "http://localhost:3001",
-  "https://admin.autobiz.mn",
-  "https://autobiz.mn",
+  "http://beta.zaya-ananda.com",
+  "http://admin.zaya-ananda.com",
 ];
 
 // Өөр домэйн дээр байрлах клиент вэб аппуудаас шаардах шаардлагуудыг энд тодорхойлно
