@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "62c0d90f3a1fa11b3cffd7ee"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656805647131_content_98d45e88-e61a-40c7-81c6-7746c7ad766e.jpeg"
+  ],
+  "priceVal": "₮",
+  "views": 0,
+  "name": "Долоон хүрдний лаа",
+  "price": 20000,
+  "details": "<p>Долоон хүрдний&nbsp;Аура эмчилгээний лаа</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "productNumber": "P22071",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805647134"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805647134"
+    }
+  },
+  "slug": "doloon-hurdniy-laa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c0d9253a1fa11b3cffd7f7"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656805669211_content_98d45e88-e61a-40c7-81c6-7746c7ad766e.jpeg"
+  ],
+  "priceVal": "₮",
+  "views": 0,
+  "name": "Аура эмчилгээний лаа  Хүүхдийн лаа",
+  "details": "<p>Аура эмчилгээний лаа &nbsp;Хүүхдийн лаа</p>",
+  "price": 20000,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "productNumber": "P22072",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805669218"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805669218"
+    }
+  },
+  "slug": "aura-emchilgeeniy-laa-huuhdiyn-laa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c0d9373a1fa11b3cffd800"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656805687401_content_98d45e88-e61a-40c7-81c6-7746c7ad766e.jpeg"
+  ],
+  "priceVal": "₮",
+  "views": 0,
+  "name": "Орон гэр ариусгагч лаа",
+  "price": 20000,
+  "details": "<p>Орон гэр ариусгагч лаа</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "productNumber": "P22073",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805687404"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805687404"
+    }
+  },
+  "slug": "oron-ger-ariusgagch-laa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c0d9533a1fa11b3cffd809"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656805715604_0.jpg"
+  ],
+  "priceVal": "₮",
+  "views": 0,
+  "name": "Энергийн бугуйвч",
+  "price": 20000,
+  "details": "<p>Энергийн бугуйвч</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "productNumber": "P22074",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805715615"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805715615"
+    }
+  },
+  "slug": "energiyn-buguyvch",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c0d9a23a1fa11b3cffd812"
+  },
+  "status": true,
+  "pictures": [
+    "photo_news_axa.png"
+  ],
+  "priceVal": "$",
+  "views": 0,
+  "name": "Geo device(Max) & Laptop Pack",
+  "price": 1008,
+  "details": "<p>Тайлбар: Газрын сөрөг энерги арилгагч пирамид</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "productNumber": "P22075",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805794671"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805794671"
+    }
+  },
+  "slug": "geo-device-max-laptop-pack",
+  "__v": 0,
+  "updateUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+},{
+  "_id": {
+    "$oid": "62c0d9e73a1fa11b3cffd81b"
+  },
+  "status": true,
+  "pictures": [
+    "photo_news_aaa.png"
+  ],
+  "priceVal": "$",
+  "views": 0,
+  "name": "DSR Shawl",
+  "price": 162,
+  "details": "<p>Энергийн алчуур</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "productNumber": "P22076",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805863038"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805863038"
+    }
+  },
+  "slug": "dsr-shawl",
+  "__v": 0,
+  "updateUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+}]

@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "62c10ad3155a8e0b900b6ab5"
+  },
+  "status": false,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Туслах цэс",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656818387084"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656818387084"
+    }
+  },
+  "slug": "tuslah-ces",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c10adf155a8e0b900b6abb"
+  },
+  "status": false,
+  "isDirect": false,
+  "isModel": true,
+  "name": "Холбоо барих",
+  "parentId": "62c10ad3155a8e0b900b6ab5",
+  "model": "contact",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656818399747"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656818399747"
+    }
+  },
+  "slug": "holboo-barih",
+  "__v": 0
+}]

@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "62bdb37c16fe0053dc230653"
+  },
+  "name": "№-₮№-₮aa",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656599420860"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656599420860"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+}]

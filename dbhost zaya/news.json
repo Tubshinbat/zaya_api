@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "62c139790d497009b83812db"
+  },
+  "status": true,
+  "star": false,
+  "type": "default",
+  "pictures": [
+    "photo_1656830329897_2.jpg"
+  ],
+  "categories": [],
+  "views": 0,
+  "name": "testaa",
+  "shortDetails": "testtesttesttesttesttest",
+  "details": "<p>testtesttesttesttesttest</p>",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656830329878"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656830329878"
+    }
+  },
+  "slug": "testaa",
+  "__v": 1,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+}]

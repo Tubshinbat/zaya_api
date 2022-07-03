@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "62c0d1ea6f32010d0855c9cf"
+  },
+  "status": "Био энерги шинжээч.",
+  "name": "Б.Одмандах",
+  "details": "<p>Био энерги шинжээч.</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "picture": "photo_employee_й.jpg",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656803818612"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656803818612"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c0d2116f32010d0855c9d7"
+  },
+  "name": "Т.Баялагмаа",
+  "status": "ACE-MEF 9 минут бясалгалын багш. Био энерги шинжээч.",
+  "details": "<p>ACE-MEF 9 минут бясалгалын багш. Био энерги шинжээч.</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "picture": "photo_employee_1.jpg",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656803857728"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656803857728"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c0d2406f32010d0855c9df"
+  },
+  "name": "Б.Заяа",
+  "status": "Zaya’s Ananda Centre - үүсгэн байгуулагч ACE-MEF магистер багш. ",
+  "details": "<p>Zaya&rsquo;s Ananda Centre - үүсгэн байгуулагч ACE-MEF магистер багш.</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "picture": "photo_employee_2.jpg",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656803904672"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656803904672"
+    }
+  },
+  "__v": 0
+}]

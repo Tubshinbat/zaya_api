@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "62c0d6f16f32010d0855cbcc"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656805105338_pexels-photo-6648583.webp"
+  ],
+  "teachers": [
+    {
+      "$oid": "62c0d2406f32010d0855c9df"
+    },
+    {
+      "$oid": "62c0d1ea6f32010d0855c9cf"
+    }
+  ],
+  "views": 0,
+  "name": "ACE-MEF 9 минут бясалгалын сургалт Part 1",
+  "group": {
+    "$oid": "62c0d49b6f32010d0855cb3c"
+  },
+  "shortDetails": "Өнөөдрийн хичээл ACE-MEF 9 минут бясалгалын сургалт",
+  "details": "<p>Өнөөдрийн хичээл ACE-MEF 9 минут бясалгалын сургалт</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "video": "video_video_pexels-taryn-elliott-7580229.mp4",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805105508"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805105508"
+    }
+  },
+  "__v": 0,
+  "updateUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+},{
+  "_id": {
+    "$oid": "62c0d7953a1fa11b3cffd77b"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656805269129_pexels-photo-917732.webp"
+  ],
+  "teachers": [
+    {
+      "$oid": "62c0d2116f32010d0855c9d7"
+    }
+  ],
+  "views": 0,
+  "name": "ACE-MEF 9 минут бясалгалын сургалт Part 2",
+  "group": {
+    "$oid": "62c0d49b6f32010d0855cb3c"
+  },
+  "shortDetails": "ACE-MEF 9 минут бясалгалын сургалт Part 1",
+  "details": "<p>ACE-MEF 9 минут бясалгалын сургалт Part 1</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "video": "video_video_Sample-Video-File-For-Testing (1).mp4",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805269959"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805269959"
+    }
+  },
+  "__v": 0
+}]

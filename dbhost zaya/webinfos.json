@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "62823833d593e57b27da3fff"
+  },
+  "email": "info@zana-anada.com",
+  "phone": 8888888,
+  "name": "zaya-anada.com",
+  "address": "zaya anada",
+  "siteInfo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "policy": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+  "logo": "photo_logo_zayalogo.png",
+  "whiteLogo": "photo_logo_zayawhite.png",
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1652701415923"
+    }
+  }
+}]

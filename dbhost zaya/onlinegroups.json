@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "62c0d49b6f32010d0855cb3c"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656804507392_kike-vega-F2qh3yjz6Jk-unsplash.jpg"
+  ],
+  "priceVal": "₮",
+  "views": 0,
+  "name": "ACE-MEF 9 минут бясалгалын сургалт",
+  "price": 19999,
+  "shortDetails": "ACE-MEF 9 минут бясалгалын сургалт",
+  "details": "<p>ACE-MEF 9 минут бясалгалын сургалт</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656804507394"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656804507394"
+    }
+  },
+  "slug": "ace-mef-9-minut-byasalgalyn-surgalt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c1011e155a8e0b900b630b"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656815902421_pexels-photo-6648583.webp"
+  ],
+  "priceVal": "$",
+  "views": 0,
+  "name": "ACE-MEF Шамбалын бясалгал",
+  "price": 300,
+  "shortDetails": "ACE-MEF Шамбалын бясалгал",
+  "details": "<p>ACE-MEF Шамбалын бясалгал</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656815902449"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656815902449"
+    }
+  },
+  "slug": "ace-mef-shambalyn-byasalgal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c10161155a8e0b900b634c"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656815969732_pexels-photo-917732.webp"
+  ],
+  "priceVal": "$",
+  "views": 0,
+  "name": "MEF сканнер оншилгооны сургалт",
+  "price": 300,
+  "shortDetails": "MEF сканнер оншилгооны сургалт ",
+  "details": "<p>MEF сканнер оншилгооны сургалт&nbsp;</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656815969734"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656815969734"
+    }
+  },
+  "slug": "mef-skanner-onshilgoony-surgalt",
+  "__v": 0
+}]

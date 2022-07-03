@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "62c0d8273a1fa11b3cffd798"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656805415787_pexels-photo-917732.webp"
+  ],
+  "priceVal": "₮",
+  "views": 0,
+  "teachers": [
+    {
+      "$oid": "62c0d2406f32010d0855c9df"
+    }
+  ],
+  "name": "ACE-MEF 9 минут бясалгалын сургалт",
+  "price": 19999,
+  "shortDetails": "ACE-MEF 9 минут бясалгалын сургалт",
+  "details": "<p>ACE-MEF 9 минут бясалгалын сургалт</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "courseNumber": "C22071",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805415783"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805415783"
+    }
+  },
+  "slug": "ace-mef-9-minut-byasalgalyn-surgalt",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "62c0d8433a1fa11b3cffd7a5"
+  },
+  "status": true,
+  "pictures": [
+    "photo_1656805443520_kike-vega-F2qh3yjz6Jk-unsplash.jpg"
+  ],
+  "priceVal": "$",
+  "views": 0,
+  "teachers": [
+    {
+      "$oid": "62c0d2406f32010d0855c9df"
+    },
+    {
+      "$oid": "62c0d2116f32010d0855c9d7"
+    }
+  ],
+  "name": "ACE-MEF Шамбалын бясалгал. Сертефикаттай",
+  "price": 300,
+  "shortDetails": "ACE-MEF Шамбалын бясалгал. Сертефикаттай ",
+  "details": "<p>ACE-MEF Шамбалын бясалгал. Сертефикаттай&nbsp;</p>",
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  },
+  "courseNumber": "C22072",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656805443518"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656805443518"
+    }
+  },
+  "slug": "ace-mef-shambalyn-byasalgal.-sertefikattay",
+  "__v": 1
+}]

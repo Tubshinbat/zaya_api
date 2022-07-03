@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "62c0daaf3a1fa11b3cffd84d"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": false,
+  "name": "Танилцуулга ",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656806063370"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656806063370"
+    }
+  },
+  "slug": "tanilcuulga",
+  "__v": 0,
+  "position": 1
+},{
+  "_id": {
+    "$oid": "62c0dbdc53abca3118b4a487"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "name": "Онлайн хичээл",
+  "model": "onlines",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656806364941"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656806364941"
+    }
+  },
+  "slug": "onlayn-hicheel",
+  "__v": 0,
+  "position": 2
+},{
+  "_id": {
+    "$oid": "62c0dbe553abca3118b4a48d"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "name": "Бясалгал дасгал",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656806373447"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656806373447"
+    }
+  },
+  "slug": "byasalgal-dasgal",
+  "__v": 0,
+  "position": 3,
+  "model": "blog"
+},{
+  "_id": {
+    "$oid": "62c0dbee53abca3118b4a493"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "name": "Үйлчилгээ оношлогоо",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656806382111"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656806382111"
+    }
+  },
+  "slug": "uylchilgee-onoshlogoo",
+  "__v": 0,
+  "position": 4,
+  "model": "services"
+},{
+  "_id": {
+    "$oid": "62c0dbf853abca3118b4a499"
+  },
+  "status": true,
+  "isDirect": false,
+  "isModel": true,
+  "name": "Бүтээгдэхүүн",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656806392351"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656806392351"
+    }
+  },
+  "slug": "buteegdehuun",
+  "__v": 0,
+  "position": 5,
+  "model": "products"
+}]

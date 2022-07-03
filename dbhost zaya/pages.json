@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "62c12e4ceada242ee893f468"
+  },
+  "status": false,
+  "listActive": false,
+  "menu": [
+    {
+      "$oid": "62c0daaf3a1fa11b3cffd84d"
+    }
+  ],
+  "footerMenu": [],
+  "pictures": [],
+  "name": "Танилцуулга",
+  "pageInfo": "<p><img src=\"http://localhost:8022/uploads/photo_img_l;l.jpg\" alt=\"\" width=\"960\" height=\"718\" /></p>",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1656827468143"
+    }
+  },
+  "updateAt": {
+    "$date": {
+      "$numberLong": "1656827468143"
+    }
+  },
+  "__v": 0,
+  "createUser": {
+    "$oid": "6213619ce207aa4abce1662c"
+  }
+}]
